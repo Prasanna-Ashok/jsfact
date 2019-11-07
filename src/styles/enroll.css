@@ -1,0 +1,35 @@
+.enroll_div{
+    text-align: center;
+    padding: 20px 0 30px 0;
+}
+.enroll_h3{
+    margin-top:100px;
+    padding-left: 100px;
+    padding-bottom: 10px;
+}
+
+.enroll_h3_rem{
+    padding: 10px 0px 10px 100px;
+}
+
+.enroll_button{
+    width:30%;
+    height: 50px;
+    cursor: pointer;
+    margin: 20px 0px 20px 200px;
+    color: #fff;
+    background: #14bdee; 
+    text-transform: uppercase;
+    border: none;
+    outline: none;
+    box-shadow: 0px 5px 40px rgba(29,34,47,0.15);
+	-webkit-transition: all 200ms ease;
+	-moz-transition: all 200ms ease;
+	-ms-transition: all 200ms ease;
+	-o-transition: all 200ms ease;
+	transition: all 200ms ease;
+    
+}
+.enroll_button:hover{
+    box-shadow: 0px 5px 40px rgba(29,34,47,0.45);
+}
